@@ -1,0 +1,6 @@
+discord.py==2.4.0
+python-dotenv==1.0.1
+networkx==3.2.1
+python-louvain==0.16
+pyvis==0.3.2
+aiohttp==3.9.3
